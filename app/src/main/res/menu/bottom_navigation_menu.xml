@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlinesFragment"
+        android:icon="@drawable/worldwide"
+        android:title="@string/news" />
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/search"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/bookmarkFragment"
+        android:icon="@drawable/bookmark"
+        android:title="@string/book_mark" />
+
+</menu>
